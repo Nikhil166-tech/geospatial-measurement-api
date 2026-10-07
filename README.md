@@ -328,7 +328,7 @@ curl -X GET "http://localhost:8000/api/files/a8f69c64/measurements/"
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Nikhil166-tech/geospatial-measurement-api.git
 cd geospatial-measurement-api
 ```
 
